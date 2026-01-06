@@ -1,2 +1,2 @@
 # Incident Response
-This folder contains incident resposne reports and analysis.
+This folder contains various incident response reports and analysis.
