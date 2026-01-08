@@ -1,5 +1,5 @@
 # Incident Response
-This folder contains various incident response reports and analysis.
+### This folder contains various incident response reports and analysis.
 Summary: The images below demonstrate a simulated DDoS attack against a large multimedia company that provides design, graphic design and social media marketing services. The attack used an ICMP flood to overwhelm network resources, which resulted in service outages that impacted client facing platforms. These images show an incident analysis report I made using the NIST cybersecurity framework to improve the organization's security posture.
 
 ### DDoS Image Part 1
