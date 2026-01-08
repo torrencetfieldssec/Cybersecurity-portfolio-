@@ -2,13 +2,6 @@
 This `README` contains screenshots from a variety of Linux labs I completed which focused on command line usage, access control, and file integrity.
 
 ---
-### Input and Output Linux 
-In this image I was tasked with creating basic  input and output commands in Linux.
-
-![Linux Navigation](screenshots/sl-linux-01-new.PNG)
-
----
-
 ### File Discovery with find
 In this image I used the Linux command `find`
 
