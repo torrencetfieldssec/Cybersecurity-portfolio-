@@ -5,7 +5,7 @@ This `README` contains screenshots from a variety of Linux labs I completed whic
 ### File Discovery with find
 In this image I used the Linux command `find`
 
-![Find Command](screenshots/sl-find-01.PNG)
+![Find Command](screenshots/sl-find-01-new.PNG)
 
 ---
 
