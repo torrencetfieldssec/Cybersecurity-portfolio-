@@ -1,2 +1,40 @@
 # Systems and Linux
-This file contains various system level security tasks including hashing, encryption, and file analysis.
+This `README` contains screenshots from a variety of Linux labs I completed which focused on command line usage, access control, and file integrity.
+
+---
+### Input and Output Linux 
+In this image I was tasked with creating basic  input and output commands in Linux.
+
+![Linux Navigation](screenshots/sl-linux-01.PNG)
+
+---
+
+### File Discovery with find
+In this image I used the Linux command `find`
+
+![Find Command](screenshots/sl-find-01.PNG)
+
+---
+
+### Log Filtering with grep
+Shows filtering and analyzing logs using the `grep` command.
+
+![Log Filtering](screenshots/sl-filter-grep-01.PNG)
+---
+### File Permission Management
+This exercise shows changing read, write, and execute permissions for the owner, group, and others using the `chmod` command.
+
+![chmod Permissions](screenshots/sl-chmod-01.PNG)
+
+---
+
+### File Decryption
+In this exercise I decrypted protected files using Linux tools such as Caesar cipher decoding with `cat` and file decryption with `openssl`.
+
+![File Decryption](screenshots/sl-decyrpt-01.PNG)
+
+---
+### Hash Creation and Integrity Checking
+Shows creating hash values to verify file integrity.
+
+![Hash Creation](screenshots/sl-createhash-01.PNG)
