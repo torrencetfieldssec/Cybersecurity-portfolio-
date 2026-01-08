@@ -3,7 +3,7 @@ This `README` contains screenshots from a variety of Linux labs I completed whic
 
 ---
 ### File Discovery with find
-In this image I used the Linux command `find`
+In this image I used the Linux commands to find out information about different users.
 
 ![Find Command](screenshots/sl-find-01-new.PNG)
 
