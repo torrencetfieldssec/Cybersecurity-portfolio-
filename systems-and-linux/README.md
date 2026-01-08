@@ -10,11 +10,11 @@ In this image I used the Linux commands to find out information about different 
 ---
 
 ### Log Filtering with grep
-Shows filtering and analyzing logs using the `grep` command.
+In this image I filtered and analyzed logs using the `grep` command.
 
-![Log Filtering](screenshots/sl-filter-grep-01.PNG)
+![Log Filtering](screenshots/sl-filter-grep-01-new.PNG)
 ---
-### File Permission Management
+### Modifying file and directory permissions
 This exercise shows changing read, write, and execute permissions for the owner, group, and others using the `chmod` command.
 
 ![chmod Permissions](screenshots/sl-chmod-01.PNG)
@@ -28,6 +28,6 @@ In this exercise I decrypted protected files using Linux tools such as Caesar ci
 
 ---
 ### Hash Creation and Integrity Checking
-Shows creating hash values to verify file integrity.
+In the image below I created creating hash values utlizing `sha256sum`.
 
 ![Hash Creation](screenshots/sl-createhash-01.PNG)
