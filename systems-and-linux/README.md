@@ -31,3 +31,18 @@ In this exercise I decrypted protected files using Linux tools such as Caesar ci
 In the image below, I generated a SHA-256 hash using sha256sum to verify file integrity.
 
 ![Hash Creation](screenshots/sl-createhash-01.PNG)
+## Skills Demonstrated
+
+Linux command line usage  
+- File and directory management  
+- Basic data analysis and filtering  
+- File security and integrity verification  
+- System monitoring and troubleshooting  
+
+## Use Cases
+
+- System administration  
+- Log and data analysis  
+- User and permission management  
+- Incident support
+
