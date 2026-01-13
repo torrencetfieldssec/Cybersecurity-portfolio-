@@ -28,6 +28,6 @@ In this exercise I decrypted protected files using Linux tools such as Caesar ci
 
 ---
 ### Hash Creation and Integrity Checking
-In the image below I created creating hash values utlizing `sha256sum`.
+In the image below, I generated a SHA-256 hash using sha256sum to verify file integrity.
 
 ![Hash Creation](screenshots/sl-createhash-01.PNG)
