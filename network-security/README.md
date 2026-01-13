@@ -47,5 +47,20 @@ Wireshark is network protocol analyzer that allows you to capture and inspect li
 In this image I used Wireshark to analyze the contents of a packet that I captured for an security invesitagation that invloved a SYN attack on an fictional organization.
 
 ![Wireshark TCP Capture](screenshots/ns-wireshark-TCP.PNG)
+## Skills Demonstrated
+
+Network traffic capture and analysis  
+Packet inspection and protocol understanding  
+Intrusion detection and monitoring  
+Security alert review and investigation  
+Troubleshooting   
+
+## Use Cases
+
+Network monitoring and threat detection  
+Incident investigation support  
+Protocol and traffic analysis  
+IDS/IPS usage
+Security audits and compliance checks
 
 
