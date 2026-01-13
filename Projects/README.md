@@ -117,5 +117,6 @@ This sample demonstrates an automatically generated report created using retriev
 - **Daniel Pulido**
 - **Leandro Cabezas**
 
-
+##
+- Disclamer: The secrets needed to run this project are not included for security reasons, but the repository fully demonstrates the project’s design, data pipeline, and reporting capabilities.
 
