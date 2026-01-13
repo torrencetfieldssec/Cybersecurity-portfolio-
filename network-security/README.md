@@ -1,5 +1,5 @@
 # Network Security
-This file contains simulated network traffic analysis utilizing tcpdump, Suricata and Wireshark.
+This file contains simulated network traffic labs I conducted utilizing tcpdump, Suricata and Wireshark.
 
 ## Packet Capture Explanation
 
