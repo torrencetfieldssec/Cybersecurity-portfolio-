@@ -20,7 +20,7 @@ This image shows a more detailed view of subsequent packets, including TCP flags
 ![Detailed Packet Capture](screenshots/ns-first-packet2.PNG)
 ## Suricata Network Monitoring Explaination 
 
-Suricata is an open-source network threat detection engine that functions as an IDS/IPS and network security monitoring tool. It inspects network traffic in real time, detecting suspicious patterns, anomalies, and known threats using rules and signatures. The images below shows me using Suricata to monitor and analyze network packets for security events.
+Suricata is an open source network threat detection engine that functions as an IDS/IPS and network security monitoring tool. It inspects network traffic in real time, detecting suspicious patterns, anomalies, and known threats using rules and signatures. The images below shows me using Suricata to monitor and analyze network packets for security events.
 
 ---
 
@@ -35,4 +35,17 @@ The image below shows the initial network traffic captured by Suricata.
 In this image I examined alerts, logs and other important information captured with Suricata.
 
 ![Suricata Capture 2](screenshots/ns-suricata2.PNG)
+
+
+## Wireshark TCP Packet Capture
+
+Wireshark is network protocol analyzer that allows you to capture and inspect live network traffic in detail. This example below focuses on TCP traffic, showing how connections are established and packets are exchanged between hosts. This application helps visualize network flows and troubleshoot or investigate potential security incidents.
+
+---
+
+### Wireshark TCP Capture
+In this image I used Wireshark to analyze the contents of a packet that I captured for an security invesitagation that invloved a SYN attack on an fictional organization.
+
+![Wireshark TCP Capture](screenshots/ns-wireshark-TCP.PNG)
+
 
