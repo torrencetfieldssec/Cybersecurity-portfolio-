@@ -19,3 +19,19 @@ Summary: In the image below I investigated a suspected attack on a fictional tra
 ###
 ![SYN Attack Summary](screenshots/syn-attack-01-summary.png)
 
+## Skills Learned
+
+- Incident response and investigation  
+- Network traffic analysis  
+- Identifying attack patterns and anomalies  
+ - Root cause analysis  
+- Incident documentation and reporting  
+
+## Use Cases
+
+- Security incident investigation  
+- Attack detection support  
+- Service outage analysis  
+- Internal security reviews  
+
+
