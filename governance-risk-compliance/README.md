@@ -24,3 +24,17 @@ Summary: In the image below, I conducted an audit about the security risks assoc
 Summary: In this activity, I analyzed a simulated social media based attack scenario where an organization’s online presence was targeted to gain unauthorized access and distribute malicious content. The scenario focused on identifying the best hardening tools and methods to better protect the organization. I recommended a number controls, including stronger authentication, network log monitoring, and improved password policies to reduce the organization's attack surface.
 
 ![Social Media Risk](screenshots/grc-social-01.png)
+## Skills Demonstrated
+
+Risk assessment and evaluation  
+Internal audit and controls analysis  
+Security policy and compliance review  
+Social media and digital security risk analysis  
+
+## Use Cases
+
+Compliance and regulatory assessments  
+Organizational risk identification and mitigation  
+Incident prevention and response planning  
+Security awareness and policy enforcement  
+Asset protection and vulnerability analysis
