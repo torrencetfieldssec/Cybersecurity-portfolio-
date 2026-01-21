@@ -43,7 +43,7 @@ CloudTrail configuration:
 - **Log file validation:** Disabled  
 - **SNS notifications:** Disabled  
 
-> Since this lab used a test user that did not perform actions, no events were recorded. The purpose of the cloudtrail was to create a simualted investigation if I were to perform these IAM changes in a real world scenario. This demonstrates knowledge of setting up CloudTrail for auditing and security monitoring.  
+> Since this lab used a test user that did not perform actions, no events were recorded. The purpose of the cloudtrail was to create a simulated investigation if I were to perform these IAM changes in a real world scenario. This demonstrates knowledge of setting up CloudTrail for auditing and security monitoring.  
 
 **Screenshots of CloudTrail configuration:**  
 ![CloudTrail Setup 1](screenshots/security-audit-trail.png)  
