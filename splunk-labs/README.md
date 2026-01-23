@@ -7,7 +7,7 @@ Summary: The main Splunk page shows access to apps, dashboards, and searches, pr
 ![Splunk Home](screenshots/splunk-home.png)
 
 ### Sample Security Log
-Summary: This security investigation a file called (`C:\temp\security.log`) contained information about successful and failed login attempts over a period of time. This log file was ingested into Splunk for analysis and alerting.  
+Summary: In this security investigation a file called (`C:\temp\security.log`) contained information about successful and failed login attempts over a period of time. This log file was ingested into Splunk for analysis and alerting.  
 ![Splunk Login](screenshots/splunk-login.png)
 
 ### Failed Login Search
