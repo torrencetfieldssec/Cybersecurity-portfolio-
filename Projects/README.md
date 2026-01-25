@@ -95,7 +95,7 @@ This sample demonstrates an automatically generated report created using retriev
 - Hybrid Retrieval-Augmented Generation 
 - Data visualization and UI design
 - Ethical data handling and reporting
-- Collaborative development workflows
+- Collaborative development workflows (Jira)
 
 ---
 
